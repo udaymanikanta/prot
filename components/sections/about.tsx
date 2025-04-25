@@ -28,17 +28,15 @@ export default function About() {
           >
             <h3 className="text-2xl font-semibold mb-4">Who I Am</h3>
             <p className="text-muted-foreground mb-6">
-              I am Uday Manikanta Pennada, a passionate Cloud Architect and Computer Science student. I specialize in
+              I am Uday Manikanta Pennada, a passionate Cloud Architect and Computer Science student. Specializing in 
               developing efficient and scalable solutions using various programming languages and cloud technologies.
             </p>
             <p className="text-muted-foreground mb-6">
-              During my internship at Rinex Technologies, I optimized APIs and built dynamic web applications. I am
-              certified in Azure Administration and IBM DevOps, and I continuously strive to enhance my skills in cloud
-              architecture and software development.
+              During an internship at Rinex Technologies, optimized APIs and built dynamic web applications. Certified in Azure Administration and IBM DevOps,
+              with a continuous drive to enhance skills in cloud architecture and software development.
             </p>
             <p className="text-muted-foreground">
-              My goal is to leverage my technical expertise to create innovative solutions that address real-world
-              challenges and improve user experiences.
+              The goal is to leverage technical expertise to create innovative solutions that address real-world challenges and improve user experiences.
             </p>
           </motion.div>
 
