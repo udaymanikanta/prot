@@ -5,13 +5,15 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Award, ExternalLink, Calendar } from "lucide-react"
 import { Button } from "@/components/ui/button"
-
+import Image from "next/image"
 const certifications = [
   {
+    image: "/1.png?height=400&width=600",
     title: "Microsoft Certified: Azure Administrator Associate",
     issuer: "Microsoft",
     date: "Apr 2025",
     url: "https://learn.microsoft.com/en-us/users/pennadaudaymanikanta-6199/credentials/dad32d300d15c80c?ref=https%3A%2F%2Fwww.linkedin.com%2F",
+    
   },
   {
     title: "Deploy Infra in the Cloud using Terraform",
