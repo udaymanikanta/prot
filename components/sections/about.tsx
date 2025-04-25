@@ -15,7 +15,7 @@ export default function About() {
           viewport={{ once: true }}
           className="text-center mb-12"
         >
-          <h2 className="text-3xl font-bold mb-4">About Me</h2>
+          <h2 className="text-3xl font-bold mb-4">About Me uday</h2>
           <div className="h-1 w-20 bg-primary mx-auto mb-8"></div>
         </motion.div>
 
