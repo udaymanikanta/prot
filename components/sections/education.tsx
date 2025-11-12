@@ -10,7 +10,7 @@ const educationData = [
     location: "Punjab, India",
     degree: "Bachelor of Technology in Computer Science and Engineering",
     period: "Aug 2022 - Present",
-    details: "CGPA: 6.47",
+    details: "CGPA: 6.85",
   },
   {
     institution: "Resonance Eduventures Limited",
