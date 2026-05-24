@@ -69,7 +69,7 @@ export default function Hero() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Resume
+                  Download Resume
                 </a>
               </Button>
 
